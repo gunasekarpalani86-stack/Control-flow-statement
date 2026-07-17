@@ -3,7 +3,7 @@ import java.util.Scanner;
 class dm 
 {
 	
-	/* Get the number from user and check the number positive or negative or Zero using  Nested if */
+	/* Find the Largest of two number using If else and Esle if  */
 	
 	static Scanner sc= new Scanner(System.in);
 	
